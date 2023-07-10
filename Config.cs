@@ -13,27 +13,27 @@ namespace CustomScpSpawnWeight
         {
             {
                 RoleTypeId.Scp049,
-                new SpawnWeight(1)
+                new SpawnWeight(-1)
             },
             {
                 RoleTypeId.Scp079,
-                new SpawnWeight(1)
+                new SpawnWeight(-1)
             },
             {
                 RoleTypeId.Scp096,
-                new SpawnWeight(1)
+                new SpawnWeight(-1)
             },
             {
                 RoleTypeId.Scp106,
-                new SpawnWeight(1)
+                new SpawnWeight(-1)
             },
             {
                 RoleTypeId.Scp173,
-                new SpawnWeight(1)
+                new SpawnWeight(-1)
             },
             {
                 RoleTypeId.Scp939,
-                new SpawnWeight(1)
+                new SpawnWeight(-1)
             }
         };
     }
